@@ -1,4 +1,4 @@
-<gif src="src/manual/image/logo.png" width="500">
+<img src="src/manual/image/logo.png" width="500">
 
 HOW TO BUILD:
 =============================
