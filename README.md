@@ -1,7 +1,13 @@
+<p class="aligncenter">
 <img src="src/manual/image/logo.png" width="500">
-
-#### EXAMPLE MODEL:
+</p>
     
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+
 ![](src/manual/image/dragon.gif)
 
 HOW TO BUILD:
