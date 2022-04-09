@@ -1,5 +1,4 @@
 ![](src/manual/image/dragon.gif)
-![](src/manual/image/logo.png)
 
 HOW TO BUILD:
 =============================
