@@ -1,4 +1,4 @@
-# 3DVIEWER
+# 3D_VIEWER
 
 ![](src/manual/image/dragon.gif)
 
