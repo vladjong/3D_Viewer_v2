@@ -1,3 +1,4 @@
+![](src/manual/image/dragon.gif)
 ![](src/manual/image/logo.png)
 
 HOW TO BUILD:
@@ -28,11 +29,6 @@ HOW TO BUILD:
 - Take a screenshot
         
 - Make a GIF
-    
-    
-#### EXAMPLE MODEL:
-    
-![](src/manual/image/dragon.gif)
     
 ##### Dragon.obj
     
