@@ -1,4 +1,4 @@
-<img src="src/manual/image/logo.png" width="500">
+# 3DVIEWER
 
 ![](src/manual/image/dragon.gif)
 
