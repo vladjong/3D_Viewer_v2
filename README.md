@@ -1,4 +1,4 @@
-<img src="src/manual/image/logo.png width=500px">
+<img src="src/manual/image/logo.png" width="500">
 
 ![](src/manual/image/dragon.gif)
 
