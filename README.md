@@ -1,5 +1,9 @@
 <img src="src/manual/image/logo.png" width="500">
 
+#### EXAMPLE MODEL:
+    
+![](src/manual/image/dragon.gif)
+
 HOW TO BUILD:
 =============================
 #### Can be opened in Qt creator and build.
@@ -61,8 +65,8 @@ HOW TO BUILD:
 ### LET'S TALK ABOUT SETTING
     
 Setting - This is a feature of the editor that allows you to customize it.
-    
-![](src/manual/image/setting.png)
+
+<img src="src/manual/image/setting.png" width="500">
     
 #### BASIC SETTING:
     
