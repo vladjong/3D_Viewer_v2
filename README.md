@@ -1,4 +1,4 @@
-<img src="rc/manual/image/dragon.gif" width="500">
+<gif src="rc/manual/image/dragon.gif" width="500">
 
 HOW TO BUILD:
 =============================
