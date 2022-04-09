@@ -1,4 +1,4 @@
-![](src/manual/image/dragon.gif)
+![](src/manual/image/dragon.gif, width="500")
 
 HOW TO BUILD:
 =============================
