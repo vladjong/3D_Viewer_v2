@@ -1,12 +1,4 @@
-<p class="aligncenter">
-<img src="src/manual/image/logo.png" width="500">
-</p>
-    
-<style>
-.aligncenter {
-    text-align: center;
-}
-</style>
+<img src="src/manual/image/logo.png">
 
 ![](src/manual/image/dragon.gif)
 
