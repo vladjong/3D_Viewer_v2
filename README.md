@@ -1,5 +1,3 @@
-# 3D_VIEWER
-
 ![](src/manual/image/main.png)
 
 HOW TO BUILD:
