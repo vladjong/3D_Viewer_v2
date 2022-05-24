@@ -1,6 +1,6 @@
 # 3D_VIEWER
 
-![](src/manual/image/dragon.gif)
+![](src/manual/image/main.png)
 
 HOW TO BUILD:
 =============================
@@ -11,7 +11,10 @@ HOW TO BUILD:
 ## LET'S GO!
     
 3D_VIEWER - is an application that allows you to view 3D models in parallel and central projection.
-    
+
+## EXAMPLE:
+![](src/manual/image/dragon.gif)
+
 #### BASIC APP FUNCTIONS:
     
         
